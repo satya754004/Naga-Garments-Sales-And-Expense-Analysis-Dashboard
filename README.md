@@ -10,10 +10,10 @@ This project presents interactive Power BI dashboards for analyzing expenses and
 - Analyze overall sales and expenses over multiple years.
 - Identify the major expense categories and their impact on the budget.
 - Track sales performance based on: 
-   . Product Category
-   . Order Type (Online vs In-Shop)
-   . Brand (Branded vs Unbranded)
-   . Gender-based sales segmentation
+   - Product Category
+   - Order Type (Online vs In-Shop)
+   - Brand (Branded vs Unbranded)
+   - Gender-based sales segmentation
 - Location-wise performance
 - Provide interactive filters for time, location, and gender.
 - Use tooltips for quick drill-down analysis.
