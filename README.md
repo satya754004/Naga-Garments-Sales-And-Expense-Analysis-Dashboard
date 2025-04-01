@@ -18,6 +18,35 @@ This project presents interactive Power BI dashboards for analyzing expenses and
 - Provide interactive filters for time, location, and gender.
 - Use tooltips for quick drill-down analysis.
 
+## 📌 Dashboard Highlights:
+### 📈 Expense Dashboard
+- Total Expense Amount: ₹3,577,000
+- Total Sales Amount: ₹5,759,000 (For comparison)
+- Top Expense Categories: 
+   - Salary
+   - Inventory (Product Purchase)
+   - Utilities (EB Bill & Gas)
+- Year-wise expense analysis (2016-2018)
+- Interactive filters: Expense Date, Location
+- Visuals: Pie Charts, Bar Graphs, Expense Table
+### 📈 Sales Dashboard
+- Total Sales Amount: ₹6,000,000
+- Sum of Quantity Sold: 6,601
+- Sales Breakdown by: 
+      - Order Type: Online vs In-Shop
+      - Brand vs Unbranded
+      - Product Categories: Semi-Formal, Formal, Casual Wear, Accessories
+      - Yearly and Gender-wise sales performance
+- Location and Date-based filtering
+- Sales by Year with gender contribution
+### 💬 Tooltip: Sales Quantity by Location
+- Pie Chart visualization of total quantity sold by: 
+   - Chennai
+   - Bangalore
+   - Hyderabad
+   - Surampet
+- Percentage share of each location
+
 ## 🔧 Tools & Technologies Used
 - **Power BI:** Data visualization and dashboard creation.
 - **Excel Files:** Source data for analysis.
